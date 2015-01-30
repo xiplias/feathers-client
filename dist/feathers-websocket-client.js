@@ -37,6 +37,7 @@ module.exports = function(path, socket) {
 };
 
 module.exports.Service = Service;
+module.exports.stripSlashes = stripSlashes;
 
 },{}]},{},[1])(1)
 });
